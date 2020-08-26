@@ -43,7 +43,7 @@ def scan():
             arr2.append(' ')
     #for loops with arrs ensure equal spacing
     
-def scan60(): #scans evvery minute and prints list of stocks
+def scan60(): #scans every minute and prints list of stocks
     while True:
         scan()
         print()
