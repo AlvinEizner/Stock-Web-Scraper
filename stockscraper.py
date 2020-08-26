@@ -3,7 +3,6 @@ import requests
 from bs4 import BeautifulSoup
 import time
 from collections import defaultdict
-#from flask import Flask
 
 top_gainers = defaultdict(list)
 def scan():
