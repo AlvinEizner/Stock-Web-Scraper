@@ -1,3 +1,2 @@
 # Stock-Web-Scraper
-A basic web scraper I built in order to get the top 20 biggest gainers of the days, excluding penny stocks, stocks over $50, and stocks that had too low of a market volume.
-I used webull's website as the target site for the web scraping.
+This webscraper takes live stock data of the day's top 100 best and worst performing stocks. Scan for stocks based off of information such as price, volume, and market cap. Once all of the presets are filled out, just click 'submit' and watch an informative table emerge, tailored to your exact specifications.
